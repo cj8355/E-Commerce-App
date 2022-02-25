@@ -7,7 +7,7 @@ import ProductList from "./pages/ProductList";
 import Register from "./pages/Register";
 import {
   BrowserRouter as Router,
-  Switch,
+  Switch,a
   Route,
   Redirect 
 } from "react-router-dom";
